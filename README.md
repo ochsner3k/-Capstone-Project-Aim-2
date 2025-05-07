@@ -12,6 +12,7 @@
 
 - ECG5000 (OpenML)
 - mitbih (Kaggle)
+  - To use this dataset please download the files from: https://www.kaggle.com/datasets/shayanfazeli/heartbeat?resource=download; and place the mitbih files in a folder called "data" in the root of your project
 
 ## Results
 
